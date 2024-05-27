@@ -1,0 +1,26 @@
+{
+  "name": "todo-tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kermoohno/todo-tdd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kermoohno/todo-tdd/issues"
+  },
+  "homepage": "https://github.com/kermoohno/todo-tdd#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
